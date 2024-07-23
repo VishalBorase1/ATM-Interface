@@ -1,4 +1,4 @@
-# TWSIP_ATM-Interface
+# ATM-Interface
 
 # Overview
 Project 2  : ATM-Interface
